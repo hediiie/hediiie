@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm hdiiie</h1>
+<h1 align="center">Hi there 👋, I'm hediiie</h1>
 
 <p align="center">
   🎨 Front-End Developer | 💡 UI/UX Enthusiast <br/>
