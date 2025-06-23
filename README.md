@@ -35,9 +35,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdiiie&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hediiie&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdiiie&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hediiie&layout=compact&theme=radical" />
 </div>
 
 ---
