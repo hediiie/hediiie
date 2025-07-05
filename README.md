@@ -41,7 +41,3 @@
 </div>
 
 ---
-
-<p align="center">
-  🎯 "Learning never exhausts the mind." – Leonardo da Vinci
-</p>
