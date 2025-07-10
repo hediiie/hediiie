@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/_hdiiie" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
-  <!-- می‌تونی لینک وبسایت هم اضافه کنی اگه داری -->
+
 </p>
 
 ---
