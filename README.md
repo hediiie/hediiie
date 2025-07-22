@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm hediiie</h1>
+<h1 align="center">Hi, I'm Hedie</h1>
 
 <p align="center">
-  🎨 Front-End Developer | 💡 UI/UX Enthusiast <br/>
+   Front-End Developer |  UI/UX Enthusiast <br/>
   🌱 Passionate about learning and growing every day
 </p>
 
