@@ -18,7 +18,7 @@
 
 ---
 
-## 📫 Connect with me
+# 📫 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-url" target="_blank">
