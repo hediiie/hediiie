@@ -7,7 +7,7 @@
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
- 📊 GitHub Stats
+ #📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hediiie&show_icons=true&theme=radical" />
